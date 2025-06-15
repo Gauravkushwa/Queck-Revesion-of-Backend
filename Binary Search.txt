@@ -1,0 +1,11 @@
+this is the Answer of Find Peak Element – LeetCode #162
+    https://leetcode.com/problems/find-peak-element/submissions/1664879815/
+
+
+Find First Bad Version – LeetCode #278
+    https://leetcode.com/problems/first-bad-version/submissions/1664885066/
+
+
+Search Insert Position – LeetCode #35
+
+    https://leetcode.com/problems/search-insert-position/
